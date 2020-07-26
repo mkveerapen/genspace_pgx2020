@@ -10,10 +10,10 @@ Options in effect:
   --out QC/Pherandom.reduced_1000_Genome.QC
 
 Hostname: ATGU-VeerapenMBP2015
-Working directory: /Users/kumar/Dropbox (Partners HealthCare)/Teaching_GenSpace_Pharmacogenetics/GINGERmaterials/PRS
-Start time: Thu Jul 23 17:25:35 2020
+Working directory: /Users/kumar/Dropbox (Partners HealthCare)/Teaching_GenSpace_Pharmacogenetics/genspace_prs/resources
+Start time: Sat Jul 25 23:34:42 2020
 
-Random number seed: 1595539535
+Random number seed: 1595734482
 16384 MB RAM detected; reserving 8192 MB for main workspace.
 88086 variants loaded from .bim file.
 2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
@@ -14587,4 +14587,4 @@ Warning: 'rs17102086' is missing from the main dataset, and is a top variant.
 --clump: 81663 clumps formed from 88086 top variants.
 Results written to QC/Pherandom.reduced_1000_Genome.QC.clumped .
 
-End time: Thu Jul 23 17:25:41 2020
+End time: Sat Jul 25 23:34:52 2020
