@@ -2,7 +2,7 @@
 
 Materials in this git repository contains materials used during the GenSpace 2020 Workshop on Personalized Medicine. 
 
-_Materials found here are thanks to the inspiration from Laramie Duncan, PhD and Hanyang Shen from Stanford University and [Sam Choi, PhD](https://choishingwan.github.io/) from Icahn School of Medicine, Mount Sinai_
+_Materials found here are thanks to the inspiration from [Laramie Duncan, PhD](https://neuroscience.stanford.edu/people/laramie-duncan) and Hanyang Shen from Stanford University and [Sam Choi, PhD](https://choishingwan.github.io/) from Icahn School of Medicine, Mount Sinai_
 
 The materials in this repo includes:
 
