@@ -1,4 +1,4 @@
-# GenSpace 2020 Workshop on Personalized Medicine using Pharmacogenomics
+# GenSpace 2020 Workshop on Personalized Medicine using Pharmacogenomics (July 26, 2020)
 ## Calculating Polygenic Risk Scores
 
 Materials in this git repository contains materials used during the GenSpace 2020 Workshop on Personalized Medicine. 
