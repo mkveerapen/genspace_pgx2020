@@ -21,8 +21,8 @@ The materials in this repo include:
     
     _Ancilliary notebooks_
     
-    - `BestFitCheckingPlotting.ipynb` : additional python notebook to check for best fitting p-value tranche.  This notebook is very _raw_ . The annotations are not perfect but you can use this after running the main R notebook (`GenSpace-Pgx_day2.ipynb`) to see which p-value tranche worked best.
-    - `QCstepsTaken.ipynb` : What QC steps can you take to clean up your data before running PRS calculations. This notebook is very _raw_ . The annotations are not perfect and was meant as a placeholder for future QC classes.
+    - `BestFitCheckingPlotting.ipynb` : additional python notebook to check for best fitting p-value tranche.  This notebook is very _raw_. The annotations are not perfect but you can use this after running the main R notebook (`GenSpace-Pgx_day2.ipynb`) to see which p-value tranche worked best.
+    - `QCstepsTaken.ipynb` : What QC steps can you take to clean up your data before running PRS calculations. This notebook is very _raw_. The annotations are not perfect and was meant as a placeholder for future QC classes.
     - `QC` is a directory that contains QC results from the data if you are using an ancilliary notebook (`QCstepsTaken.ipynb`)
     
 4) `GenSpace-Pgx_day2_notebookOutput.pdf` :  This file contains the LaTeX exported pdf output.
