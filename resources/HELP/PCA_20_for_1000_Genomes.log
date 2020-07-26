@@ -1,0 +1,19 @@
+PLINK v1.90b1b 64-bit (20 May 2014)
+6 arguments: --bfile All_1000_Genomes_biallelic_SNPs_maf001 --out Test --pca 20
+Hostname: sh-5-27.local
+Working directory: /share/PI/laramied/data/1000Genomes/ftp-trace.ncbi.nih.gov/1000genomes/ftp/release/20130502/HANYANG/PCA
+Start time: Fri Jun  9 16:01:36 2017
+
+Random number seed: 1497049296
+64380 MB RAM detected; reserving 32190 MB for main workspace.
+26045160 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to Test.nosex .
+Using up to 15 threads (change this with --threads).
+Calculating allele frequencies... done.
+26045160 variants and 2504 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to Test.eigenval and Test.eigenvec .
+
+End time: Fri Jun  9 17:35:49 2017

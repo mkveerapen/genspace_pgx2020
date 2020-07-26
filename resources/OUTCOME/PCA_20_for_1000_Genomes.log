@@ -1,0 +1,28 @@
+PLINK v1.90b6.2 64-bit (12 Jun 2018)
+Options in effect:
+  --bfile QC/Pherandom.reduced_1000_Genome.QC
+  --out OUTCOME/PCA_20_for_1000_Genomes
+  --pca 20
+
+Hostname: ATGU-VeerapenMBP2015
+Working directory: /Users/kumar/Dropbox (Partners HealthCare)/Teaching_GenSpace_Pharmacogenetics/genspace_prs/resources
+Start time: Sat Jul 25 21:53:32 2020
+
+Random number seed: 1595728412
+16384 MB RAM detected; reserving 8192 MB for main workspace.
+88086 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to OUTCOME/PCA_20_for_1000_Genomes.nosex .
+2504 phenotype values loaded from .fam.
+Warning: Ignoring phenotypes of missing-sex samples.  If you don't want those
+phenotypes to be ignored, use the --allow-no-sex flag.
+Using up to 4 threads (change this with --threads).
+Before main variant filters, 2504 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+88086 variants and 2504 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to OUTCOME/PCA_20_for_1000_Genomes.eigenval and
+OUTCOME/PCA_20_for_1000_Genomes.eigenvec .
+
+End time: Sat Jul 25 21:54:42 2020

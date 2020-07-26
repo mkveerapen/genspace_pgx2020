@@ -1,0 +1,18 @@
+PLINK v1.90b6.2 64-bit (12 Jun 2018)
+Options in effect:
+  --allow-no-sex
+  --bfile Pherandom.reduced_1000_Genome
+  --extract QC/Pherandom.reduced_1000_Genome.QC.clumped.valid.snp
+  --out OUTCOME/MDD
+  --q-score-range q.ranges.GWASsig_to_1 MDD_2019_pvalue_score
+  --score MDD_2019_logORpVal 1 2 3 header no-mean-imputation
+
+Hostname: ATGU-VeerapenMBP2015
+Working directory: /Users/kumar/Dropbox (Partners HealthCare)/Teaching_GenSpace_Pharmacogenetics/genspace_prs/resources
+Start time: Sat Jul 25 21:54:43 2020
+
+Random number seed: 1595728483
+16384 MB RAM detected; reserving 8192 MB for main workspace.
+Error: Failed to open Pherandom.reduced_1000_Genome.bed.
+
+End time: Sat Jul 25 21:54:43 2020
