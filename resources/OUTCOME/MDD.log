@@ -1,7 +1,7 @@
 PLINK v1.90b6.2 64-bit (12 Jun 2018)
 Options in effect:
   --allow-no-sex
-  --bfile Pherandom.reduced_1000_Genome
+  --bfile QC/Pherandom.reduced_1000_Genome.QC
   --extract QC/Pherandom.reduced_1000_Genome.QC.clumped.valid.snp
   --out OUTCOME/MDD
   --q-score-range q.ranges.GWASsig_to_1 MDD_2019_pvalue_score
@@ -9,10 +9,37 @@ Options in effect:
 
 Hostname: ATGU-VeerapenMBP2015
 Working directory: /Users/kumar/Dropbox (Partners HealthCare)/Teaching_GenSpace_Pharmacogenetics/genspace_prs/resources
-Start time: Sat Jul 25 21:54:43 2020
+Start time: Sat Jul 25 23:36:32 2020
 
-Random number seed: 1595728483
+Random number seed: 1595734592
 16384 MB RAM detected; reserving 8192 MB for main workspace.
-Error: Failed to open Pherandom.reduced_1000_Genome.bed.
+88086 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to OUTCOME/MDD.nosex .
+2504 phenotype values loaded from .fam.
+--extract: 81663 variants remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2504 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+81663 variants and 2504 people pass filters and QC.
+Among remaining phenotypes, 1229 are cases and 1275 are controls.
+Warning: 20976 lines skipped in --score file (20973 due to variant ID mismatch,
+3 due to allele code mismatch); see OUTCOME/MDD.nopred for details.
+--score: 81660 valid predictors loaded.
+Warning: 20977 lines skipped in --q-score-range data file.
+OUTCOME/MDD.Psi.profile written.
+OUTCOME/MDD.Pe6.profile written.
+OUTCOME/MDD.pe4.profile written.
+OUTCOME/MDD.pe3.profile written.
+OUTCOME/MDD.pe2.profile written.
+OUTCOME/MDD.P05.profile written.
+OUTCOME/MDD.P10.profile written.
+OUTCOME/MDD.P20.profile written.
+OUTCOME/MDD.P30.profile written.
+OUTCOME/MDD.P40.profile written.
+OUTCOME/MDD.P50.profile written.
+OUTCOME/MDD.P75.profile written.
+OUTCOME/MDD.all.profile written.
+--score: 13 ranges processed.
 
-End time: Sat Jul 25 21:54:43 2020
+End time: Sat Jul 25 23:36:38 2020
