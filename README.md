@@ -18,7 +18,9 @@ The materials in this repo include:
     - p-values and effect sizes (beta values) are listed as `MDD_2019_` files. These files are referred to and elaborated in the R Jupyter notebook in this repository.
     - `q.ranges.GWASsig_to_1`: p-value tranche file. This file is referred to and elaborated in the R Jupyter notebook in this repository.
     - `OUTCOME` is a directory that contains the results, and where your results will write into if you are using the main notebook `GenSpace-Pgx_day2.ipynb`.
+    
     _Ancilliary notebooks_
+    
     - `BestFitCheckingPlotting.ipynb` : additional python notebook to check for best fitting p-value tranche.  This notebook is very _raw_ . The annotations are not perfect but you can use this after running the main R notebook (`GenSpace-Pgx_day2.ipynb`) to see which p-value tranche worked best.
     - `QCstepsTaken.ipynb` : What QC steps can you take to clean up your data before running PRS calculations. This notebook is very _raw_ . The annotations are not perfect and was meant as a placeholder for future QC classes.
     - `QC` is a directory that contains QC results from the data if you are using an ancilliary notebook (`QCstepsTaken.ipynb`)
